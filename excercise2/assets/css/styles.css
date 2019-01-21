@@ -1,0 +1,30 @@
+body{
+    background-color: darkgray;
+}
+.form{
+    background-color: #fff;
+    border: 1px solid #000;
+    width: 400px;
+    margin: 30vh auto;
+}
+.form p{
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+}
+.form p span{
+    font-weight: 300;
+}
+.bottom{
+    background-color: lightgray;
+    text-align: right;
+}
+.btn{
+    padding: 0.5em 3em;
+    margin: 2em;
+    border-radius: 5px;
+    background: #e0e0e0;
+    box-shadow: none
+}
+.btn:focus{
+    outline-color: goldenrod;}
